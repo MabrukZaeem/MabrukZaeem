@@ -1,0 +1,5 @@
+print("hello world")
+print("My name is Zaeem")
+print("I am learning how to code")
+print("I want be skilled at coding")
+print("Wish me the best of luck")
