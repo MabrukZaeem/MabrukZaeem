@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a skilled coder/programmer as a hobby
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mabrukzaeem@gmail.com
+- 📫 How to reach me Instagram @Mabruk_Zaeem
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
